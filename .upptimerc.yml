@@ -5,8 +5,12 @@ repo: uptimeinnova # The name of this repository
 sites:
   - name: Investor Innova-Funding
     url: https://investor.innova-funding.com/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: onBoarding Innova-Funding
+    url: https://onboarding.innova-funding.com/
+  - name: Company Innova-Funding
+    url: http://company.innova-funding.com/
+  - name: BackOffice Innova-Funding
+    url: http://backoffice.innova-funding.com/
     
 assignees:
   - devalfe
