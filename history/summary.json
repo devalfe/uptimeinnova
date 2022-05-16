@@ -4,9 +4,9 @@
     "url": "https://investor.innova-funding.com/",
     "icon": "https://favicons.githubusercontent.com/investor.innova-funding.com",
     "slug": "investor-innova-funding",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 237,
     "timeMonth": 253,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 0
+    }
   },
   {
     "name": "onBoarding Innova-Funding",
     "url": "https://onboarding.innova-funding.com/",
     "icon": "https://favicons.githubusercontent.com/onboarding.innova-funding.com",
     "slug": "on-boarding-innova-funding",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 274,
     "timeMonth": 298,
     "timeYear": 267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 0
+    }
   },
   {
     "name": "Company Innova-Funding",
     "url": "http://company.innova-funding.com/",
     "icon": "https://favicons.githubusercontent.com/company.innova-funding.com",
     "slug": "company-innova-funding",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 304,
     "timeMonth": 277,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 0
+    }
   },
   {
     "name": "BackOffice Innova-Funding",
     "url": "http://backoffice.innova-funding.com/",
     "icon": "https://favicons.githubusercontent.com/backoffice.innova-funding.com",
     "slug": "back-office-innova-funding",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 291,
     "timeMonth": 270,
     "timeYear": 272,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 0
+    }
   }
 ]
