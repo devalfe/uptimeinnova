@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/investor.innova-funding.com",
     "slug": "investor-innova-funding",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.09%",
     "uptimeMonth": "98.18%",
-    "uptimeYear": "99.47%",
-    "time": 238,
-    "timeDay": 440,
-    "timeWeek": 243,
+    "uptimeYear": "99.48%",
+    "time": 239,
+    "timeDay": 257,
+    "timeWeek": 260,
     "timeMonth": 277,
-    "timeYear": 238,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2022-05-16": 797
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "92.09%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "99.47%",
-    "time": 269,
-    "timeDay": 351,
-    "timeWeek": 264,
+    "time": 270,
+    "timeDay": 309,
+    "timeWeek": 284,
     "timeMonth": 316,
-    "timeYear": 269,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2022-05-16": 797
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "98.18%",
     "uptimeYear": "99.47%",
     "time": 275,
-    "timeDay": 432,
-    "timeWeek": 266,
-    "timeMonth": 297,
+    "timeDay": 323,
+    "timeWeek": 296,
+    "timeMonth": 296,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2022-05-16": 797
@@ -70,11 +70,11 @@
     "uptimeWeek": "92.09%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "99.47%",
-    "time": 278,
-    "timeDay": 666,
-    "timeWeek": 298,
-    "timeMonth": 307,
-    "timeYear": 278,
+    "time": 279,
+    "timeDay": 341,
+    "timeWeek": 329,
+    "timeMonth": 308,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2022-05-16": 797
     }
