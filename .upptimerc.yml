@@ -5,13 +5,17 @@ repo: uptimeinnova # The name of this repository
 sites:
   - name: Investor Innova-Funding
     url: https://investor.innova-funding.com/
+    icon: https://investor.innova-funding.com/favicon.ico
   - name: onBoarding Innova-Funding
     url: https://onboarding.innova-funding.com/
+    icon: https://onboarding.innova-funding.com//favicon.ico
   - name: Company Innova-Funding
     url: http://company.innova-funding.com/
+    icon: http://company.innova-funding.com/favicon.ico
   - name: BackOffice Innova-Funding
     url: http://backoffice.innova-funding.com/
-    
+    icon: http://backoffice.innova-funding.com/favicon.ico
+
 assignees:
   - devalfe
 
@@ -22,13 +26,12 @@ status-website:
   baseUrl: /uptimeinnova
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Devalfe - Innova-Funding
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: '**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub.'
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
