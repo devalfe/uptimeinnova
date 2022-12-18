@@ -5,15 +5,15 @@
     "icon": "https://investor.innova-funding.com/favicon.ico",
     "slug": "investor-innova-funding",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 242,
-    "timeDay": 358,
-    "timeWeek": 220,
-    "timeMonth": 246,
+    "timeDay": 281,
+    "timeWeek": 242,
+    "timeMonth": 251,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2022-05-16": 797
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 252,
-    "timeDay": 384,
-    "timeWeek": 216,
-    "timeMonth": 242,
+    "timeDay": 277,
+    "timeWeek": 240,
+    "timeMonth": 247,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2022-05-16": 797
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 291,
-    "timeDay": 463,
-    "timeWeek": 277,
-    "timeMonth": 300,
+    "timeDay": 339,
+    "timeWeek": 301,
+    "timeMonth": 307,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2022-05-16": 797
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 286,
-    "timeDay": 520,
-    "timeWeek": 256,
-    "timeMonth": 303,
+    "timeDay": 360,
+    "timeWeek": 285,
+    "timeMonth": 307,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2022-05-16": 797
